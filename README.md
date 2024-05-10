@@ -1,7 +1,4 @@
 # BankManagementSystem
-
-Sure, here's a summary for your Bank Management System project:
-
 Bank Management System
 
 The Bank Management System is a comprehensive software solution designed to streamline and automate various banking operations. Developed using Java, Swing for the user interface, JDBC for database connectivity, and hosted on AWS for scalability and reliability, this project offers a robust platform for managing banking activities efficiently.
